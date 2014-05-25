@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Editor HTML Online</title>
+		<title>Vi</title>
 	</head>
 	<body>
 		<div style="text-align: left;">
