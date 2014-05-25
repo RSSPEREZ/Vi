@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Vi</title>
+		<title></title>
 	</head>
 	<body>
 		<div style="text-align: left;">
